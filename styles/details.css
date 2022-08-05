@@ -1,0 +1,20 @@
+.details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.detail--column {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    padding: 1rem;
+    border: 2px dotted goldenrod;
+    font-weight: bold;
+}
+
+.orders {
+    font-size: 1.5rem;
+    margin-left: 12.5rem;
+   
+}
+
